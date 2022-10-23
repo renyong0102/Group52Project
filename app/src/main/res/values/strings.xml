@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group52Project</string>
+    <string name="groupName">Group 52</string>
+    <string name="weatherBttnName">Weather Forecast</string>
+    <string name="firebaseBttnName">Firebase Realtime Database</string>
+    <string name="finalBttnName">Final Project</string>
+    <string name="loadingText">Loading…</string>
+</resources>
