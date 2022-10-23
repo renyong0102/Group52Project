@@ -87,6 +87,7 @@ public class A7Activity extends AppCompatActivity {
 
 //        getWeatherInfo();
 
+
         searchIV.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
